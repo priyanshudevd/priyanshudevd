@@ -29,7 +29,7 @@
 <a href="https://twitter.com/Mk4Coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/twitter.png" alt="Twitter" height="40" width="50" title="twitter" /></a>
 <a href="https://github.com/Mk4Levi" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/github.png" alt="GitHub" height="50" width="50" title="github" /></a>
 <a href="https://www.linkedin.com/in/mk4coder" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/linkedin.png" alt="LinkedIn" height="40" width="50" title="linkedin" /></a>
-<a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/Gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
+<a href="mailto:mksoul1811@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/gmail.png" alt="Gmail" height="40" width="50" title="gmail" /></a>
 <a href="https://discord.me/manthan-discord-server" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/discord.png" alt="Discord" height="40" width="50" title="discord" /></a>
 <a href="https://www.reddit.com/user/Mkp_1811" target="_blank" rel="noreferrer"><img align="center" src="./assets/socials/reddit.png" alt="Reddit" height="40" width="50" title="reddit" /></a>
 
