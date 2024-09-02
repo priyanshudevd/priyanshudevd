@@ -84,6 +84,6 @@
 
 <!-- ## You can Support me here -->
 
-<p><a href="https://www.buymeacoffee.com/manthan4coder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Manthan-Tech" /></a></p><br><br><br>
+<p><a href="https://razorpay.me/@manthan-mk"> <img align="left" src="./assets/socials/Razorpayy.png" height="50" width="210" alt="Contribute to my projects" /></a></p><br><br><br>
 
 ## Thank You for visiting my GitHub-Profile.
