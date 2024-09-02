@@ -82,7 +82,7 @@
 <br> <br>
 <br> <br>
 
-<!-- ## You can Support me here -->
+## You can support me here :-
 
 <p><a href="https://razorpay.me/@manthan-mk"> <img align="left" src="./assets/socials/Razorpayy.png" height="50" width="210" alt="MK-Razorpay" title="Contribute to my projects" /></a></p><br><br><br>
 
